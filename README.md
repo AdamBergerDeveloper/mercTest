@@ -1,2 +1,2 @@
-# mercTest
-Test Pracodawcy Merc
+# merceTest
+Test Pracodawcy Merce
